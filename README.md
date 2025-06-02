@@ -37,5 +37,7 @@ Este projeto é um aplicativo desenvolvido em Streamlit para automatizar o cálc
 
 Desenvolvido por Vanessa Vieira.
 
+https://github.com/vanessa-programacao/vendas_com_comissao.git
+
 
 
